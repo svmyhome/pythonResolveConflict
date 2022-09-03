@@ -20,4 +20,4 @@ def test_5():
 
 
 def test_8():
-    assert 5 != 5
+    assert 5 = 5
