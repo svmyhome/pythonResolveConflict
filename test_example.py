@@ -11,3 +11,6 @@ def test_2():
 
 def test_4():
     assert 4 != 0
+
+def test_5():
+    assert 4 != 0
